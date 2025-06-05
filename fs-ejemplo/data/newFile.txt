@@ -1,0 +1,1 @@
+Contenido nuevo desde el modulo fs de Node.js
